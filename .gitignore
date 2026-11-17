@@ -1,0 +1,3 @@
+venv/
+driftguard.db
+__pycache__/
